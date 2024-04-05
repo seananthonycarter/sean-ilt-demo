@@ -1,0 +1,40 @@
+﻿---
+ID: "f632caf9-e978-4e88-88e1-09c2e42a7c00"
+Parent: "b475e100-7b9c-4327-acf2-7bc45a221852"
+Template: "5360c520-732b-4cda-9848-31fedc7f507c"
+Path: /sitecore/content/Skate Park/Skate Park/Home/Inventory/skateboard1
+SharedFields:
+- ID: "68b9f209-d292-4599-b405-0cc746a7409e"
+  Hint: SKU
+  Value: "{F632CAF9-E978-4E88-88E1-09C2E42A7C00}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{EA479664-A004-4CE7-9932-DC2A03E9F63B}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0f3c7281-4f48-49f5-a0e2-ed0f32e3c398"
+      Hint: Content
+      Value: "Looking for a skateboard that can keep up with your shredding skills? The skateboard1 is here to take your skating to the next level. Whether you're hitting the skatepark or cruising the streets, the skateboard1 is the perfect board for you. Ready to take your skating to the next level? Order your skateboard1 today!"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240405T115736Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: skateboard1
+    - ID: "5ca81b36-ef40-42e8-92ed-2723ef8599d9"
+      Hint: Title
+      Value: skateboard1
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e76660d3-33cd-4736-86bf-cf276065a84b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sean.carter@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240405T115736Z

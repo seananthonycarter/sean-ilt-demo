@@ -1,0 +1,40 @@
+﻿---
+ID: "9c45d8df-d9dd-4873-924e-0ac651944917"
+Parent: "b475e100-7b9c-4327-acf2-7bc45a221852"
+Template: "5360c520-732b-4cda-9848-31fedc7f507c"
+Path: /sitecore/content/Skate Park/Skate Park/Home/Inventory/skateboard3
+SharedFields:
+- ID: "68b9f209-d292-4599-b405-0cc746a7409e"
+  Hint: SKU
+  Value: "{9C45D8DF-D9DD-4873-924E-0AC651944917}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{CD6C35B5-1D33-4BD4-A566-7AE07D6EF5B8}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0f3c7281-4f48-49f5-a0e2-ed0f32e3c398"
+      Hint: Content
+      Value: "Looking for a skateboard that can keep up with your shredding skills? The skateboard3 is here to take your skating to the next level. Whether you're hitting the skatepark or cruising the streets, the skateboard3 is the perfect board for you. Ready to take your skating to the next level? Order your skateboard3 today!"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240405T115822Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: skateboard3
+    - ID: "5ca81b36-ef40-42e8-92ed-2723ef8599d9"
+      Hint: Title
+      Value: skateboard3
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9aa61cdb-7be8-445b-b44b-9f0d8db148a3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sean.carter@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240405T115822Z

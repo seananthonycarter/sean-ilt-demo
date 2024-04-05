@@ -1,0 +1,27 @@
+﻿---
+ID: "0ed34e2b-773d-42f8-9677-1fb6e5f5a81b"
+Parent: "f8b31eff-a594-428a-847d-6c1d42bf98de"
+Template: "f8b31eff-a594-428a-847d-6c1d42bf98de"
+Path: /sitecore/templates/Project/Skate Park/Skate Park Templates/Product Landing Page/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{5360C520-732B-4CDA-9848-31FEDC7F507C}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240404T191219Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7c7ff853-9d4c-494f-8913-19b67e6a06e7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sean.carter@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240404T191305Z

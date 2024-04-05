@@ -1,0 +1,42 @@
+﻿---
+ID: "c04ca125-b4b6-4c35-855a-fb37288a8db1"
+Parent: "19d92f63-8a36-4f87-933e-81369a6f7522"
+Template: "19d92f63-8a36-4f87-933e-81369a6f7522"
+Path: /sitecore/templates/Project/Skate Park/Skate Park Templates/_Base Product/__Standard Values
+SharedFields:
+- ID: "68b9f209-d292-4599-b405-0cc746a7409e"
+  Hint: SKU
+  Value: $id
+Languages:
+- Language: en
+  Fields:
+  - ID: "cac417df-5368-47c0-9524-9f0b5bfd2e35"
+    Hint: Price
+    Value: $100
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240404T190146Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sean.carter@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sean.carter@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "23286886-78c9-4d98-97ec-e0abdda72ab7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sean.carter@sitecore.com
+    - ID: "be757ad3-55a0-4c82-9ec3-6eb4af7a1a8d"
+      Hint: Highlights
+      Value: Whether you&rsquo;re a beginner or a pro, this will work well for you.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240404T190450Z

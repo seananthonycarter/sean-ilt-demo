@@ -1,0 +1,101 @@
+﻿---
+ID: "32501b0c-33b7-48df-b3f3-383c35192177"
+Parent: "d825a6a9-1510-4f33-9994-2f5df8b99f10"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: /sitecore/content/Skate Park/Skate Park/Presentation/Partial Designs/Footer
+BranchID: "8204a950-cbaa-4d06-878b-11ced5ddc1ad"
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: footer
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{2B97CED8-08A4-4070-ADDE-5FA954CAC8BD}" />
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{9D698CA0-62DF-4653-8856-A2CCBBB052D1}"
+          p:before="*"
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="?Styles=%7b297968DA-A4DE-4696-8771-BFC78933309C%7d%7c%7b016C0688-4D89-4043-BC23-95BEB05A89A9%7d%7c%7b9ACD6BEC-5A6A-43F9-9896-B0EFFBD59897%7d%7c%7b84C35009-12B2-4E5F-A52E-B042B9A99A92%7d%7c%7b5F07CEFE-F338-40E4-8D65-5527B0EC9B8B%7d%7c%7b8AEEF52E-68D1-4A25-95BB-9EA2609D8EFD%7d%7c%7b54163B2F-A0B7-4BF2-8C8C-66DEB436BA22%7d%7c%7b1B561380-F7CE-43E8-978B-3CCA8198C4B4%7d%7c%7b32262891-FC5C-4C44-826F-A97765F9C0DD%7d%7c%7bA838405F-BAFB-402A-97A5-26B596003F65%7d%7c%7b0D8347E5-C4F1-4544-891D-2A9C9F37FE90%7d%7c%7bFF2FCCD7-C325-42F6-8EAF-9C7832F7CA80%7d%7c%7b00DB6B6E-AC5D-4E33-8939-2192013E6333%7d%7c%7b199B7A45-CAB0-43A3-88B3-E88DA202C7FA%7d%7c%7b1DF1214B-7258-463B-8C55-54F1EA3BC2F5%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;DynamicPlaceholderId=1"
+          s:ph="headless-footer" />
+        <r
+          uid="{F1E11B32-EA79-482B-A127-B945608B5B05}"
+          p:after="r[@uid='{9D698CA0-62DF-4653-8856-A2CCBBB052D1}']"
+          s:ds="local:/Data/Address"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7b8F86B3BC-7F92-44BB-8174-7A84133A75EE%7d&amp;FieldNames=%7b0EC3D9B9-20D9-460E-B566-02EF58643652%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b31A49E90-E4B4-4F04-A3C7-E15B6835990F%7d"
+          s:ph="/headless-footer/container-1" />
+        <r
+          uid="{7840E5D1-0017-4161-B0DD-84BA3AB6FC6C}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Contact info"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7b8F86B3BC-7F92-44BB-8174-7A84133A75EE%7d&amp;FieldNames=%7b0EC3D9B9-20D9-460E-B566-02EF58643652%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b31A49E90-E4B4-4F04-A3C7-E15B6835990F%7d"
+          s:ph="/headless-footer/container-1" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{EDB00EAA-5ACA-4C4D-8B88-3195D992F980}"
+Languages:
+- Language: da
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240404T155041Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sean.carter@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sean.carter@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "206c3086-a966-4ebd-9088-8a29504fd375"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sean.carter@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240404T171425Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240404T155041Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sean.carter@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sean.carter@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d3610bff-b5f4-488e-bcb9-5bda53e9e5f3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sean.carter@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240404T171422Z

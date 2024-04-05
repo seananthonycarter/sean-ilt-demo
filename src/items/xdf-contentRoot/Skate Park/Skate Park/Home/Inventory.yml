@@ -1,0 +1,65 @@
+﻿---
+ID: "b475e100-7b9c-4327-acf2-7bc45a221852"
+Parent: "11d37caf-c743-4680-9714-5f59a327046b"
+Template: "f8b31eff-a594-428a-847d-6c1d42bf98de"
+Path: /sitecore/content/Skate Park/Skate Park/Home/Inventory
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{ABAA72FB-6993-4A3C-94E7-F9E8C9E183CD}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{6BDAD8C1-E17A-4B17-87AE-F31CACB6511E}"
+              p:before="*"
+              s:ds="local:/Data/Promo content"
+              s:id="{2492BAC4-DA07-4C86-87F0-9873D40E2276}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B32E4B815-2501-4C47-8B32-1ABF57B992CB%7D&amp;Styles=%7C%7B2063F474-8028-4524-90B5-0B8318BF5266%7D%7C%7B25C73B96-AEB0-40D9-9E5D-529AFBFFCAFE%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{A8C03404-A875-490B-B5A3-1AAC1BEBE0CB}"
+              p:after="r[@uid='{6BDAD8C1-E17A-4B17-87AE-F31CACB6511E}']"
+              s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+              s:par="ColumnWidth1=%7B81225C08-5783-4BED-A86A-AB2B87198885%7D%7C%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;ColumnWidth2=%7B81225C08-5783-4BED-A86A-AB2B87198885%7D%7C%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="headless-main" />
+            <r
+              uid="{4D4BF80A-7539-46DB-AD91-BC0EF686E58E}"
+              p:after="*[1=2]"
+              s:id="{1DEB067F-0BB1-405E-94F5-2ABB537A6160}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B146DD5E8-F5EE-4051-8A74-AE8ACA852D2A%7D&amp;Styles&amp;NavigationRoot&amp;LevelFrom=%7BA59325BB-5A27-46F9-8110-9D499715F3BE%7D&amp;LevelTo=%7BA59325BB-5A27-46F9-8110-9D499715F3BE%7D&amp;Filter&amp;Flattened&amp;AddRoot&amp;SerializerFieldNames&amp;RenderingIdentifier&amp;CSSStyles"
+              s:ph="/headless-main/column-1-2" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240405T115701Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Inventory
+    - ID: "5ca81b36-ef40-42e8-92ed-2723ef8599d9"
+      Hint: Title
+      Value: Inventory
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c5371063-2b48-4b80-9b80-1780cd3a7211"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sean.carter@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240405T135316Z
